@@ -1,0 +1,10 @@
+f="NanumGothic NanumGothicLight NanumGothicBold NanumGothicExtraBold NanumMyeongjo NanumMyeongjoBold NanumMyeongjoExtraBold"
+b=""
+for a in $f
+do
+  ttx $a.otf
+  sed 's/OTF//' $a.ttx>${a}OTF.ttx
+  ttx ${a}OTF.ttx
+  b="$b ${a}OTF.otf" 
+done
+otf2otc -o Nanum.otc $b
