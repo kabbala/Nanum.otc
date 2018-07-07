@@ -3,6 +3,17 @@ Nanum.otc
 
 Nanum fonts OTC(OpenType Collection)
 
+I think OTC is a convenient way to manage many font files.
+
+What is OTC?
+------------
+
+OpenType CollectioN(OTC) is a multiple fonts storage in a single file format like TrueType Collection(TTC).
+
+It was introduced by Adobe in 2014.
+
+Adobe says this OTC format combines CFF table glyphs and makes significant storage benefits for CJK fonts.
+
 Tools
 -----
 
