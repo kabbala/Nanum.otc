@@ -22,4 +22,4 @@ Adobe Font Development Kit for OpenType([AFDKO](https://www.adobe.com/devnet/ope
 Font Copyright
 --------------
 
-©2010-2011 NHN Corporation
+©2010, 2011, 2013-2017 NHN Corporation
