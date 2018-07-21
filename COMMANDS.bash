@@ -6,8 +6,8 @@ f="$(unzip -Z1 NanumFont_OTF_ALL.zip)"
 b=""
 for a in $f
 do
-   ttx $a
    c="${a%%.*}_otf_removed"
+   ttx $a
    sed 's/OTF//' ${a%%.*}.ttx>${c}.ttx
    ttx ${c}.ttx
    b="$b ${c}.otf"
