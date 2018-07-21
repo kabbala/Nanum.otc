@@ -1,18 +1,14 @@
 Nanum.otc
 =========
 
-Nanum fonts([나눔글꼴](http://hangeul.naver.com/2017/nanum)) OTC(OpenType Collection)
+Nanum fonts([나눔글꼴](http://hangeul.naver.com/2017/nanum)) are one of the most popular free font families in Korean.
 
-I think OTC is a convenient way to manage many font files.
+But it has little annoying distribution policy. so I bind them into one big OTC(OpenType Collection) file and also fix minor errors.
 
-What is OTC?
-------------
+OTC benefit for CJK fonts
+-------------------------
 
-OpenType CollectioN(OTC) is a multiple fonts storage in a single file format like TrueType Collection(TTC).
-
-It was introduced by Adobe in 2014.
-
-Adobe [says](https://blogs.adobe.com/CCJKType/2014/01/otc.html) this OTC format combines CFF table glyphs and makes significant storage benefits for CJK fonts.
+Adobe [says](https://blogs.adobe.com/CCJKType/2014/01/otc.html) OTC format combines CFF table glyphs and makes significant storage benefits for CJK fonts.
 
 Tools
 -----
