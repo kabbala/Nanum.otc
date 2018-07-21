@@ -6,9 +6,9 @@ Nanum.otc
 OTC란?
 ------
 
-TrueType 글꼴(TTF)를 묶은 TTC(TrueType Collection)처럼, OpenType 글꼴(OTF)를 하나로 묶은 것입니다.
+TrueType 글꼴(TTF)를 묶은 TTC(TrueType Collection)처럼, OpenType 글꼴(OTF)을 하나로 묶은 것입니다.
 
-그래서 나눔글꼴은 TTF와 OTF 두 가지 형태로 배포되는데, 그 중에 OTF 형태를 사용하였습니다.
+그래서 TTF와 OTF 두 가지 형태로 배포되는 나눔글꼴 중, OTF 형태를 사용하였습니다.
 
 수정 사항
 ---------
