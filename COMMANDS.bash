@@ -1,8 +1,13 @@
+if [ ! -f NanumFontSetup_OTF_GOTHICLIGHT.zip ]; then
+   curl -O http://cdn.naver.com/naver/NanumFont/fontfiles/NanumFontSetup_OTF_GOTHICLIGHT.zip
+fi
 if [ ! -f NanumFont_OTF_ALL.zip ]; then
    curl -O http://cdn.naver.com/naver/NanumFont/fontfiles/NanumFont_OTF_ALL.zip
 fi
+unzip NanumFontSetup_OTF_GOTHICLIGHT.zip
 unzip NanumFont_OTF_ALL.zip
-f="$(unzip -Z1 NanumFont_OTF_ALL.zip)"
+f="$(unzip -Z1 NanumFontSetup_OTF_GOTHICLIGHT.zip)"
+f="$f $(unzip -Z1 NanumFont_OTF_ALL.zip)"
 b=""
 for a in $f
 do
