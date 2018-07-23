@@ -13,7 +13,9 @@ Adobe [says](https://blogs.adobe.com/CCJKType/2014/01/otc.html) OTC format combi
 Tools
 -----
 
-Adobe Font Development Kit for OpenType([AFDKO](https://www.adobe.com/devnet/opentype/afdko.html)) version 2.5 build 65322 (2016-05-27)
+* [fonttools](https://github.com/fonttools/fonttools) 3.28.0
+* Adobe Font Development Kit for OpenType([AFDKO](https://www.adobe.com/devnet/opentype/afdko.html)) version 2.5 build 65322 (2016-05-27)
+* BASH
 
 Font Copyright
 --------------

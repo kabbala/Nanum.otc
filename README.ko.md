@@ -16,7 +16,8 @@ OpenType 글꼴(OTF)들을 하나의 큰 파일로 묶은 것으로, OpenType Co
 사용 도구
 ---------
 
-* 글꼴을 편집하는 데는 Adobe Font Development Kit for OpenType([AFDKO](https://www.adobe.com/devnet/opentype/afdko.html)) version 2.5 build 65322 (2016-05-27)을 사용하였으며,
+* [fonttools](https://github.com/fonttools/fonttools) 3.28.0
+* Adobe Font Development Kit for OpenType([AFDKO](https://www.adobe.com/devnet/opentype/afdko.html)) version 2.5 build 65322 (2016-05-27)
 * 명령은 BASH 쉘에서 실행하는 것으로 간주하였습니다.
 
 글꼴 저작권
