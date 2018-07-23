@@ -1,14 +1,12 @@
 Nanum.otc
 =========
 
-[나눔글꼴](http://hangeul.naver.com/2017/nanum)을 편의를 위해 하나의 OTC(OpenType Collection) 파일로 묶은 것입니다.
+[나눔글꼴](http://hangeul.naver.com/2017/nanum)을 편의를 위해 하나의 OTC 파일로 묶은 것입니다.
 
 OTC란?
 ------
 
-TrueType 글꼴(TTF)를 묶은 TTC(TrueType Collection)처럼, OpenType 글꼴(OTF)을 하나로 묶은 것입니다.
-
-그래서 TTF와 OTF 두 가지 형태로 배포되는 나눔글꼴 중, OTF 형태를 사용하였습니다.
+OpenType 글꼴(OTF)들을 하나의 큰 파일로 묶은 것으로, OpenType Collection의 약자입니다.
 
 수정 사항
 ---------
@@ -18,7 +16,7 @@ TrueType 글꼴(TTF)를 묶은 TTC(TrueType Collection)처럼, OpenType 글꼴(O
 사용 도구
 ---------
 
-* 글꼴을 편집하는데는 Adobe Font Development Kit for OpenType([AFDKO](https://www.adobe.com/devnet/opentype/afdko.html)) version 2.5 build 65322 (2016-05-27)을 사용하였으며,
+* 글꼴을 편집하는 데는 Adobe Font Development Kit for OpenType([AFDKO](https://www.adobe.com/devnet/opentype/afdko.html)) version 2.5 build 65322 (2016-05-27)을 사용하였으며,
 * 명령은 BASH 쉘에서 실행하는 것으로 간주하였습니다.
 
 글꼴 저작권
