@@ -15,6 +15,7 @@ Tools
 
 * [fonttools](https://github.com/fonttools/fonttools) 3.28.0
 * Adobe Font Development Kit for OpenType([AFDKO](https://www.adobe.com/devnet/opentype/afdko.html)) version 2.5 build 65322 (2016-05-27)
+* [p7zip](http://p7zip.sourceforge.net/) 16.02
 * BASH
 
 Font Copyright
